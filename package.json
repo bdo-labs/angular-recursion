@@ -7,7 +7,7 @@
     "js": {
       "entry": "angular-recursion.js"
     }
-  }
+  },
   "directories": {
     "test": "test"
   },
