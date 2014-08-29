@@ -1,4 +1,13 @@
 {
+  "name": "angular-recursion",
+  "version": "0.0.0",
+  "description": "",
+  "main": "angular-recursion.js",
+  "atomify": {
+    "js": {
+      "entry": "angular-recursion.js"
+    }
+  }
   "directories": {
     "test": "test"
   },
